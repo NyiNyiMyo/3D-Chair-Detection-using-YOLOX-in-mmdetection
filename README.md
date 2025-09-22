@@ -1,4 +1,4 @@
-# 3D-Chair-Detection-using-YOLOX-in-mmdetection
+# 3D Chair Detection using YOLOX in mmdetection
 
 ## 🧊 Monocular 3D Object Detection
 
