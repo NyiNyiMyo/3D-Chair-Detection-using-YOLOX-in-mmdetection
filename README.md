@@ -8,3 +8,7 @@
 [![pytorch](https://img.shields.io/badge/PyTorch-2.0.1+cu117-EE4C2C.svg?style=flat&logo=pytorch)](https://pytorch.org)
 ![Static Badge](https://img.shields.io/badge/Object-Detection-cyan)
 ![Static Badge](https://img.shields.io/badge/mmdetection-blue)
+
+![Visualization val](YOLOX-3d-chair.png)  
+
+---
